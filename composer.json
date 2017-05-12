@@ -1,0 +1,22 @@
+{"name": "serializes",
+  "description": "Make an array or object to searialize",
+  "license": "MIT",
+
+  "authors": [
+        {
+            "name": "Nazmul Hasan",
+            "email": "nazmul.sbpgc@gmail.com",
+            "homepage": "http://www.orocoder.com",
+            "role": "Developer"
+        }
+    ],
+	 "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.0"
+    },
+  "autoload":{
+    "psr-4":{
+      "Serializes\\":"src"
+    }
+  }
+}
