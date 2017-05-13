@@ -7,7 +7,9 @@ Add nazmul/serializes to composer.json
 ```bash
 "nazmul/serializes": "dev-master"
 ```
-Run the composer update
+Run the ```bash
+composer update
+```
 
 ## Basic Usage
 
