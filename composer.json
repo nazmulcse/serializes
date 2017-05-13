@@ -1,5 +1,5 @@
 {"name": "nazmul/serializes",
-  "description": "Make an array or object to searialize",
+  "description": "Searialize an array or object",
   "license": "MIT",
 
   "authors": [
