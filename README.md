@@ -2,14 +2,12 @@
 
 ## Installation
 
-Add nazmul/serializes to composer.json
+Add `nazmul/serializes` to `composer.json`
 
 ```bash
 "nazmul/serializes": "dev-master"
 ```
-Run the ```bash
-composer update
-```
+Run the `composer update`.
 
 ## Basic Usage
 
